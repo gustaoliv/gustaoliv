@@ -11,6 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg">
+  <img align="center" alt="Gusta-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
 </div>
   
 ##
