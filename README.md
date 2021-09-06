@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gustavo Oliveira 👋
 
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando Python com foco em Análise de Dados
 
 <div>
   <a href="https://github.com/gustaoliv">
