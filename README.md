@@ -1,6 +1,7 @@
 ### Hello! My name is Gustavo Oliveira 👋
 
-- ⚙ Systems Engineering Student  
+- ⚙ Systems Engineering Student
+- 👩‍💻 Developer in early career looking to learn.
 - 📊 Interested in Python and Data Science 
 
 <div>
