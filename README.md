@@ -2,7 +2,7 @@
 
 - ⚙ Systems Engineering Student
 - 👩‍💻 Developer in early career looking to learn.
-- 📊 Interested in Python and Data Science 
+- 📊 Interested in Python, Django and Back-End Development
 
 <div>
   <a href="https://github.com/gustaoliv">
