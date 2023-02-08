@@ -1,7 +1,7 @@
 ### Hello! My name is Gustavo Oliveira 👋
 
 - ⚙ Systems Engineering Student
-- 👩‍💻 Junior software developer.
+- 👩‍💻 Junior software developer at [BigDataCorp](https://bigdatacorp.com.br/).
 - 📊 Interested in C#, .Net, Python and Django.
 - 😴 Github away because i'm just codding for my job
 
