@@ -2,8 +2,7 @@
 
 - ⚙ Systems Engineering Student
 - 👩‍💻 Mid-Level software developer at [BigDataCorp](https://bigdatacorp.com.br/).
-- 📊 Interested in C#, .Net, Python and Django.
-- 😴 Github away because i'm just codding for my job
+- 📊 Interested in C#, .NET
 
 <div>
   <a href="https://github.com/gustaoliv">
@@ -14,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gusta-DotNetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Gusta-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Gusta-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Gusta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
