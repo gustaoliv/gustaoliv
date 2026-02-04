@@ -1,8 +1,8 @@
 ### Hello! My name is Gustavo Oliveira 👋
 
-- ⚙ Systems Engineering Student
-- 👩‍💻 Mid-Level software developer at [BigDataCorp](https://bigdatacorp.com.br/).
-- 📊 Interested in C#, .NET
+- ⚙ Systems Engineer
+- 👩‍💻 Senior software developer at [BigDataCorp](https://bigdatacorp.com.br/).
+- 📊 Specialist in C#, .NET
 
 <div>
   <a href="https://github.com/gustaoliv">
